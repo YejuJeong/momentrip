@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703473482799",
+    "project_id": "momenttrip-918e4",
+    "storage_bucket": "momenttrip-918e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703473482799:android:09b56e72e71d72a84a1ada",
+        "android_client_info": {
+          "package_name": "com.example.momenttrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhKuyZbsNNNnHtIuNB6-XCnV7szNXE7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
